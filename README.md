@@ -1,0 +1,1 @@
+This simple webpage allows users to enter a message into a form. Upon the click of the 'submit button' or 'enter button', the entered message is displayed below the form in different colour. If no message is entered, an error message is displayed upon the click of 'submit button'
